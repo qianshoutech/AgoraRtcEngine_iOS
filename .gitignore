@@ -71,3 +71,13 @@ fastlane/test_output
 iOSInjectionProject/
 /.DS_Store
 /Sources/.DS_Store
+
+# Agora xcframework 相关
+*.xcframework/
+*.xcframework.zip
+Sources/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
